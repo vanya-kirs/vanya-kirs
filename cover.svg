@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 220" role="img" aria-label="vanya-kirs · Python, Telegram, Swift">
+  <rect width="960" height="220" fill="#102726"/>
+  <g fill="#ebf7eb" font-family="system-ui,sans-serif">
+    <text x="42" y="120" font-size="74" font-weight="700">vanya-kirs</text>
+    <text x="46" y="165" font-size="23" fill="#abe3cd">Python  /  Telegram  /  Swift</text>
+  </g>
+  <g fill="none" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke="#aceac7" d="M560 160h94l88-88h180"/>
+    <path stroke="#ffac84" d="M610 48h90l84 84h138"/>
+    <path stroke="#87b8ff" d="M630 191h152l66-66V32"/>
+  </g>
+  <g fill="#102726" stroke="#ebf7eb" stroke-width="5">
+    <circle cx="654" cy="160" r="9"/><circle cx="719" cy="67" r="9"/><circle cx="848" cy="72" r="9"/>
+  </g>
+</svg>
