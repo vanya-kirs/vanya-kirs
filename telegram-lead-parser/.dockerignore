@@ -1,0 +1,9 @@
+.env
+.env.*
+*.session*
+*.db
+*.log
+*.xlsx
+.venv
+.git
+**/__pycache__

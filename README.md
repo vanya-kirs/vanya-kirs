@@ -7,6 +7,7 @@ I develop Python backend services, Telegram applications, and mobile software in
 | Project | Scope |
 | --- | --- |
 | LI Group API | Backend for the Siriona education platform. It manages student assessments, VR session results, and reporting for teachers. [Platform website](https://siriona.io) |
+| [Telegram Lead Parser](./telegram-lead-parser) | A Python service that deduplicates Telegram messages, filters them by keyword, and scores potential leads with Claude. Includes an offline demo. |
 | [Learning Game Backend](https://github.com/vanya-kirs/learning-game-backend) | A FastAPI and PostgreSQL service for adaptive learning paths, lesson progression, and rewards. |
 | [Alfred Flight Monitor](https://github.com/vanya-kirs/alfred-flight-monitor) | Travel planning, flight monitoring, and flight and hotel search. |
 | [Telegram Challenge Bot](https://github.com/vanya-kirs/telegram-challenge-bot) | An aiogram and PostgreSQL application for daily video submissions, payment review, and participation rankings. |

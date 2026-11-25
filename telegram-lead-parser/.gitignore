@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+
+# Environment
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Alembic (keep versions/)
+alembic/__pycache__/
+alembic/versions/__pycache__/
+.worktrees/
+
+# Telethon session files (contain auth credentials)
+*.session
+*.session-journal
+
+# Celery runtime state
+celerybeat-schedule
+celerybeat-schedule-shm
+celerybeat-schedule-wal
+
+# macOS
+.DS_Store
+docs/.DS_Store
+docs/**/.DS_Store
+
+# DB dumps
+*.dump
+*.sql.gz
